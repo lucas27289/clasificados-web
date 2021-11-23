@@ -1,0 +1,7 @@
+{%if subcategoria %}
+    {% for sc in subcategoria %}
+    <p> {{ sc }} </p>
+    {% endfor %}
+{% else %}
+    <p>Nada para mostrar por el momento</p>
+{% endif %}
