@@ -26,7 +26,6 @@ Django==3.0.8
 django-mathfilters==1.0.0
 django-rest-knox==4.1.0
 djangorestframework==3.12.4
-duplicity==0.8.12.0
 entrypoints==0.3
 et-xmlfile==1.0.1
 fasteners==0.14.1
