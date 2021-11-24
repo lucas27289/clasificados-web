@@ -81,7 +81,6 @@ PyRect==0.1.4
 pyRFC3339==1.1
 PyScreeze==0.1.27
 pytest==4.6.9
-python-apt==2.0.0+ubuntu0.20.4.6
 python-dateutil==2.7.3
 python-debian===0.1.36ubuntu1
 python3-xlib==0.15
