@@ -99,7 +99,6 @@ soupsieve==1.9.5
 sqlparse==0.4.1
 systemd-python==234
 tables==3.6.1
-unattended-upgrades==0.1
 urllib3==1.25.8
 usb-creator==0.3.7
 virtualenv-clone==0.5.4
