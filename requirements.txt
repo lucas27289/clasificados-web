@@ -82,7 +82,6 @@ pyRFC3339==1.1
 PyScreeze==0.1.27
 pytest==4.6.9
 python-dateutil==2.7.3
-python-debian===0.1.36ubuntu1
 python3-xlib==0.15
 PyTweening==1.0.3
 pytz==2021.1
