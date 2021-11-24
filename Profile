@@ -1,0 +1,1 @@
+web: gunicorn clasificados.wsgi --log-file-
